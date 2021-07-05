@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lavilleyvincent@gmail.com
+	name = vincentlavilley
